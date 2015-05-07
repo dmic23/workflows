@@ -4,7 +4,7 @@
   "description": "A Lynda.com project to showcase workflows",
   "repository": {
     "type": "git",
-    "url": "dmic23"
+    "url": "https://github.com/dmic23/workflows.git"
   },
   "keywords": [
     "gulp.js",
@@ -14,6 +14,7 @@
   "author": "Daniel Micaletti/Ray Villalobos",
   "devDependencies": {
     "gulp": "^3.8.11",
+    "gulp-coffee": "^2.3.1",
     "gulp-util": "^3.0.4"
   }
 }

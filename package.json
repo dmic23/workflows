@@ -11,5 +11,9 @@
     "git",
     "browserify"
   ],
-  "author": "Daniel Micaletti/Ray Villalobos"
+  "author": "Daniel Micaletti/Ray Villalobos",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-util": "^3.0.4"
+  }
 }

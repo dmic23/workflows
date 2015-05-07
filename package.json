@@ -1,0 +1,15 @@
+{
+  "name": "workflows",
+  "version": "0.0.1",
+  "description": "A Lynda.com project to showcase workflows",
+  "repository": {
+    "type": "git",
+    "url": "dmic23"
+  },
+  "keywords": [
+    "gulp.js",
+    "git",
+    "browserify"
+  ],
+  "author": "Daniel Micaletti/Ray Villalobos"
+}
